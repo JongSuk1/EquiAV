@@ -1,4 +1,4 @@
-# EquiAV: Leveraging Equivariance for Audio-Visual Contrastive Learning
+# [ICML 2024] EquiAV: Leveraging Equivariance for Audio-Visual Contrastive Learning
 
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
